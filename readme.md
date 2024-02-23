@@ -1,0 +1,1 @@
+# Desafio Intermediário Rocketseat Explorer - Stage 02
