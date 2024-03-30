@@ -1,9 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
 body {
+  display: flex;
+  flex-direction: column;
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   font-weight: 400;
   text-align: center;
-  margin: 0;
+  border: 1px solid blue;
 }
 
 #hero {
@@ -48,10 +57,8 @@ a {
 }
 
 #footer {
-  display: inline-block;
-  width: 1024px;
-  height: 176px;
-  margin: auto;
+  width: 100%;
+  bottom: 0;
 }
 
 #footer a+a {
@@ -66,6 +73,6 @@ a {
 }
 
 #wave {
-  margin-top: 40px;
+  position: absolute;
   width: 100%;
 }
