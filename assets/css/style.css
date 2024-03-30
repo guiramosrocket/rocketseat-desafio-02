@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 15;
+  font-size: 15px;
   font-weight: 400;
   text-align: center;
   margin: 0;
@@ -8,7 +8,7 @@ body {
 
 #hero {
   width: 626px;
-  margin: 64px auto 240px;
+  margin: 64px auto 64px;
 }
 
 #hero img {
@@ -28,10 +28,12 @@ h1 span {
 
 p {
   color: #828282;
+  line-height: 22px;
 }
 
 .ofertas {
   margin-top: 32px;
+  margin-bottom: 64px;
   color: #828282;
 }
 
@@ -46,6 +48,7 @@ a {
 }
 
 #footer {
+  display: inline-block;
   width: 1024px;
   height: 176px;
   margin: auto;
@@ -59,11 +62,10 @@ a {
   width: 391px;
   height: 0;
   border: 1px solid #ECEFF2;
-  margin: 0 auto;
+  margin: 0 auto 16px;
 }
 
-.wave {
-  position: fixed;
-  bottom: 0px;
-  right: 0px;
+#wave {
+  margin-top: 40px;
+  width: 100%;
 }
