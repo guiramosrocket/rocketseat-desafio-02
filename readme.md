@@ -13,8 +13,8 @@ In this challenge, I recreated a landing page based on a ready-made layout in Fi
 
 ## Application Layout
 
-The Figma layout is available at this **[link](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate).** <br/ >
+The Figma layout is available at this **[link](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate).**
 
 You can see the appearance of the application below:
 
-![Landing Page](images/desafio.png)
+![Landing Page](assets/images/desafio.png)
